@@ -1,1 +1,1 @@
-git
+[![Build status](https://ci.appveyor.com/api/projects/status/dw61c6rxwbw3n6td?svg=true)](https://ci.appveyor.com/project/alas777-pc/test-api)
